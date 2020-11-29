@@ -1,0 +1,2 @@
+maxHealth = game.Players.LocalPlayer.Humanoid.MaxHealth
+player.Health = maxHealth
