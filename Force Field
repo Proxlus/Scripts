@@ -1,0 +1,2 @@
+ff = Instance.new("ForceField", game.Players.LocalPlayer.Character)
+ff.Visible = true
