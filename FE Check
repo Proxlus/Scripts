@@ -1,0 +1,11 @@
+print("Currently checking for Filtering Enabled!")
+wait(1)
+if game.Workspace.FilteringEnabled == true then 
+    print("Filtering is enabled, changes won't replicate. Have fun in this game, anyway!")
+end
+if game.Workspace.FilteringEnabled == false then
+    print("Wow, you're in luck. you've joined one of the Filtering Disabled games that are in ROBLOX!")
+    warn("You'll find that here, changes replicate!")
+    warn("Have fun here!")
+end
+--This script simply made by a beginner named RBLXCheeez, or Wake! Made for Ex7.
